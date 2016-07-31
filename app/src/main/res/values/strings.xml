@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BidderApp</string>
+    <string name="btnLabel">Register</string>
+    <string name="txtLabel">Input Phone Number</string>
+</resources>
